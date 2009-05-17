@@ -1,0 +1,8 @@
+{
+	"name":        "MonkeyScript Banana Version tool",
+	"shortname":   "banana-version",
+	"namespace":   "misc.version.banana",
+	"license":     "PD",
+	"authors":     [{name:"Daniel Friesen", url:"http://daniel.friesen.name"}],
+	"description": "This tool defines a versionComparison function which is used by MonkeyScript's Banana system. This library is bootstrapped into `banana` but may also be used outside of banana by other code wishing to compare versions the same way that banana does."
+}
